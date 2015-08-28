@@ -9,7 +9,7 @@ Copy image or take screenshot, then paste on editor like Github, Qiita and Slack
 ## Usage
 
 1. take screenshot or copy image
- - `cmd + shift + 4`. then capture area with pressing ctrl
+ - `cmd + ctrl + shift + 4`. then capture area with pressing ctrl
  - copy image by context menu
 2. paste image by `cmd + v`
 
